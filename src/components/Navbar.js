@@ -24,9 +24,6 @@ function Navbar() {
             <Link to="/" className="mr-5 hover:text-gray-300">
               Third Link
             </Link>
-            <Link to="/" className="hover:text-gray-300">
-              Fourth Link
-            </Link>
           </nav>
         </div>
       </header>

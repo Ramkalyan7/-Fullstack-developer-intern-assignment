@@ -21,7 +21,7 @@ function Table() {
 
   return (
     <div className="flex items-center justify-center py-10 bg-gradient-to-r from-cyan-50 to-blue-50 sm:mt-10 mt-20">
-      <div className="sm:w-auto w-[100%] overflow-x-scroll sm:px-0 px-5">
+      <div className="sm:w-auto w-[88%] overflow-x-scroll sm:px-0 ">
         <table className="shadow-lg bg-white ">
           <thead>
             <tr>

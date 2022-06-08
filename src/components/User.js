@@ -49,7 +49,7 @@ function User() {
             </p>
             <p className="sm:text-4xl text-3xl">
               <span className="font-bold"> {days} </span>
-              {days > 1 ? "days" : "day"} to go for this person's next birthday
+              {days > 1 ? "days" : "day"} to go for {name}'s next birthday
             </p>
           </div>
         </div>
